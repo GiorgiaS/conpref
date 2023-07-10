@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contextualpreferences>
+    <situation situation="common">
+        <city city_name="melbourne">
+            <area area_name="college">
+                <pi pi_name="ormond college">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="university">
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 2">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="union house">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi> 
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="university plaza">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="glyn davis building">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="chemistry building">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="faculty of science">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="union rd">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="masson rd">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="law school">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+            </area>
+            <area area_name="university oval">
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="cropley sports pavilion">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="csports clubs 2">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="carlton">
+                <pi pi_name="pelham st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="leichester st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="queensberry st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="lygon st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="elgin st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="cbd">
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="little lonsdale st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="elizabeth st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="little bourke st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="rankins ln">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="tipo 00">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Bob Alice Frank Jack Joe Sam Lilly Mat Cloe Zoe Carl Paul Gian Ella Eveline Jane Ugo Samantha Daniel Christine Chris Jean Kile Ari Karen Lisa Anna Fred John Lucas" threshold="30">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+        </city>
+    </situation>
+</contextualpreferences>

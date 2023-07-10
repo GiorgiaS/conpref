@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contextualpreferences>
+    <situation situation="common">
+        <city city_name="melbourne">
+            <area area_name="college">
+                <pi pi_name="ormond college">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="university">
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 2">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="union house">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi> 
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="university plaza">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="glyn davis building">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="chemistry building">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="faculty of science">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="union rd">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="masson rd">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+                <pi pi_name="law school">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>  
+            </area>
+            <area area_name="university oval">
+                <pi pi_name="theology ministry centre">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="cropley sports pavilion">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="sports clubs 1">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="csports clubs 2">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="carlton">
+                <pi pi_name="pelham st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="leichester st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="queensberry st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="lygon st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="elgin st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+            <area area_name="cbd">
+                <pi pi_name="swanston st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="little lonsdale st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="elizabeth st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="little bourke st">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="rankins ln">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+                <pi pi_name="tipo 00">
+                    <time al_time="weekday" ex_time="evening">
+                        <activity al_activity="walking" ex_activity="none">
+                            <privacypreference pp="P1">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P2">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P3">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P4">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                            <privacypreference pp="P5">
+                                <social_ignore list="Alice Bob Carl Daniel Enry Frank George Hilary Imma Jack" threshold="10">
+                                </social_ignore>
+                            </privacypreference>
+                        </activity>
+                    </time>
+                </pi>
+            </area>
+        </city>
+    </situation>
+</contextualpreferences>
