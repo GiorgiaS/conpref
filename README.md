@@ -1,8 +1,10 @@
 This is the implementation of ConPrEF for testing.
 ## Cite
 ```
-@inproceedings...
-
+@inproceegings{conpref,
+ title = {ConPrEF: A Context-Based Privacy Enforcement Framework for Edge Computing},
+ author={Sirigu, Giorgia and Carminati, Barbara and Ferrari, Elena},
+}
 ```
 ## Getting Started
 
