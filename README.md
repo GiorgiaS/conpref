@@ -1,9 +1,13 @@
 This is the implementation of ConPrEF for testing.
 ## Cite
 ```
-@inproceegings{conpref,
- title = {ConPrEF: A Context-Based Privacy Enforcement Framework for Edge Computing},
- author={Sirigu, Giorgia and Carminati, Barbara and Ferrari, Elena},
+@inproceedings{sirigu2023conpref,
+  title={ConPrEF: a context-based privacy enforcement framework for edge computing},
+  author={Sirigu, Giorgia and Carminati, Barbara and Ferrari, Elena},
+  booktitle={2023 IEEE International Conference on Edge Computing and Communications (EDGE)},
+  pages={72--78},
+  year={2023},
+  organization={IEEE}
 }
 ```
 # Getting Started
