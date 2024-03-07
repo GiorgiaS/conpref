@@ -6,9 +6,9 @@ This is the implementation of ConPrEF for testing.
  author={Sirigu, Giorgia and Carminati, Barbara and Ferrari, Elena},
 }
 ```
-## Getting Started
+# Getting Started
 
-# Requirements
+## Requirements
 - Python 3.10+ 
  - pygeodesy ("pip install PyGeodesy")
  - openpyxl ("pip install openpyxl")
@@ -16,7 +16,7 @@ This is the implementation of ConPrEF for testing.
 - Docker
 - RaspberryPi[^1] (not mandatory)
 
-# Implementation Structure
+## Implementation Structure
 This implementation provides two different testing settings.
 The one in "smartphone" folder runs the client application through a docker container, while the one in "smartwatch" runs directly within the device (or Raspberry). 
 
@@ -31,7 +31,6 @@ Running the **Smartwatch** application:
 2. enter folder `cd smartwatch`
 3. run command `python3 testSmartwatch.py`
 The results of the test are stored within the folder `TestingResultsSmartwatch`, that is generated after the first execution.
-
 
 Running the **Smartphone** application:
 1. open the terminal
